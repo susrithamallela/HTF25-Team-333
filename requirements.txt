@@ -1,0 +1,9 @@
+streamlit>=1.20
+tensorflow>=2.12
+Pillow
+requests
+numpy
+pandas
+sqlalchemy
+transformers
+torch
